@@ -1,0 +1,36 @@
+body {
+    background: #ffffff url('background-image.png') ;
+    min-height: 100%;
+    min-width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+p {
+    width: 850px;
+}
+table, th{
+    border: 1px double #000;
+    padding: 2px;
+    margin-left: 5px;
+    width: 2000px;
+    text-align: center;
+}
+td, ul{
+    text-align: left;
+}
+hr{
+    border: dotted 3px;
+    width: 100px;
+}
+h1, h2 ,p{
+    margin-left: 250px;
+}
+button{
+    margin-left: 850px;
+}
+
